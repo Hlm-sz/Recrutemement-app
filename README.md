@@ -1,4 +1,4 @@
-*Application de Recrutement
+* Application de Recrutement
 Aplication de recrutement ! Cette application facilite le suivi des candidatures, la gestion des offres d'emploic (concours) et le processus de recrutement pour les recruteurs et les candidats.
 
 *Fonctionnalités
